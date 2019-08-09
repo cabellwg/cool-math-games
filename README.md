@@ -6,3 +6,7 @@ Super fast math library written in Rust for ultimate performance gainz.
 
 ### Features
 
+##### Number theory functions
+
+* Greatest common denominator
+

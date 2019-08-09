@@ -1,3 +1,5 @@
+mod number_theory;
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}", number_theory::gcd(45, 21));
 }
