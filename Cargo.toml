@@ -1,5 +1,5 @@
 [package]
-name = "cool-math-games"
+name = "coolmathgames"
 version = "0.0.1"
 license = "MIT"
 authors = ["William Cabell <william16180@gmail.com>"]
